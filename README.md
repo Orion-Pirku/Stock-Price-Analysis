@@ -24,7 +24,7 @@ The project utilizes standard open-source libraries for:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/Orion-Pirku/Stock-Price-Analysis.git](https://github.com/Orion-Pirku/Stock-Price-Analysis.git)
+    git clone https://github.com/Orion-Pirku/Stock-Price-Analysis.git
     ```
 
 2.  Install the required packages from the requirements file:
